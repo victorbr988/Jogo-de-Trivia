@@ -1,4 +1,4 @@
-# Bem vindo ao projeto de Trivia
+# Bem vindo ao jogo de Trivia
 
 ### Este projeto foi desenvolvido em grupo por mim e mais 3 pessoas
 
