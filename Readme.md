@@ -11,11 +11,11 @@
 </ol>
 
 
-#### Código da trybe:
+## Código da trybe:
 
-<h2>Caminho: mock/questions.js</h2>
+<h4>Caminho: mock/questions.js</h4>
 
-<h2>Dentro da pasta helpers, possui um arquivo chamado renderWithRouterAndRedux.js</h2>
+<h4>Dentro da pasta helpers, possui um arquivo chamado renderWithRouterAndRedux.js</h4>
 
 ```js
   import React from 'react';
@@ -46,9 +46,9 @@
   
   export default renderWithRouterAndRedux;
 ```
-### Desenvolvido por mim
+## Desenvolvido por mim
 
-<h2>Arqivos de minha autoria</h2>
+<h4>Arqivos de minha autoria</h4>
 
 <ol>
   <li>Feedback.js</li>
@@ -56,7 +56,7 @@
   <li>Settings.js</li>
 </ol>
 
-<h2>Dentro do arquivo Game.js criei a lógica onde é renderizado um contador</h2>
+<h4>Dentro do arquivo Game.js criei a lógica onde é renderizado um contador</h4>
 
 ```js
   updateState =(click) => {
@@ -88,7 +88,7 @@
   }
 ```
 
-<h2>Arqivos de testes de minha autoria</h2>
+<h4>Arqivos de testes de minha autoria</h4>
 
 <ol>
   <li>Feedback.test.js</li>
