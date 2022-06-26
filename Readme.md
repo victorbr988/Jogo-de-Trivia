@@ -48,7 +48,7 @@
 ```
 ## Desenvolvido por mim
 
-<h4>Arqivos de minha autoria</h4>
+<h4>Arquivos de minha autoria</h4>
 
 <ol>
   <li>Feedback.js</li>
